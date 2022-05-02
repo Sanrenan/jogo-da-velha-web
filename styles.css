@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background: rgb(94, 92, 179);
+}
+
+.square{
+    text-align: center;
+    width: 50px;
+    background: rgba(170, 171, 255, 0.986);
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: rgba(170, 171, 255, 0.986);
+}
+
+.player{
+    font-size: 25px;
+    margin-top: 10px;
+    color: rgba(170, 171, 255, 0.986);
+}
+
+.winner{
+    font-size: 25px;
+    margin-top: 10px;
+    color: rgba(170, 171, 255, 0.986);
+}
+
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: rgba(170, 171, 255, 0.986);
+    cursor: pointer;
+}
