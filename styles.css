@@ -3,6 +3,12 @@ body{
     background: rgb(94, 92, 179);
 }
 
+.title{
+    
+    font-size: 30px;
+    color: rgba(170, 171, 255, 0.986);
+}
+
 .square{
     text-align: center;
     width: 50px;
@@ -32,6 +38,10 @@ button{
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: rgba(170, 171, 255, 0.986);
+    color: white;
+    background: rgba(38, 38, 78, 0.986);
     cursor: pointer;
+
+
+
 }
